@@ -17,6 +17,23 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/catPic2.jpg": {
+		"ft": 16384,
+		"iS": 66093,
+		"oA": 0,
+		"oAP": "\/catPic2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/index-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/index-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,

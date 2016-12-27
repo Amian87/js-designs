@@ -1,1 +1,1 @@
-$(document).ready(function(){var c=0;$("#catPic").on("click",function(){countLog=c++,$("#numberOfClicks").text(countLog)})});
+$(document).ready(function(){var c="/catPic.jpg",t="/catPic2.jpg";$("#catName").text("Atom"),$("#catPic").append('<img id="catPics" src=/catPic.jpg />'),$("#catName2").text("Ion"),$("#catPic2").append('<img id="catPics" src=/catPic2.jpg />');var a=0,i=0;$("#catPic").on("click",function(){var c=a++;$("#numberOfClicks").prepend().text(c)}),$("#catPic2").on("click",function(){var c=i++;$("#numberOfClicks2").prepend().text(c)})});
