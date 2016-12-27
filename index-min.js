@@ -1,0 +1,1 @@
+$(document).ready(function(){var c=0;$("#catPic").on("click",function(){countLog=c++,$("#numberOfClicks").text(countLog)})});
