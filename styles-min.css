@@ -1,0 +1,2 @@
+/*.cat_container {display: flex; justify-content: space-between;}*/
+#catPic { display: flex; flex-direction: column; justify-content: space-between; }
