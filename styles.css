@@ -1,2 +1,3 @@
 /*.cat_container {display: flex; justify-content: space-between;}*/
-#catPic { display: flex; flex-direction: column; justify-content: space-between; }
+#cat_pic { display: flex; flex-direction: row; justify-content: space-between; padding-bottom: 150px; }
+.cat_pic { display: flex; flex-direction: row; justify-content: space-between;}
